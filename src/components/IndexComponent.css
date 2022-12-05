@@ -1,0 +1,24 @@
+.table{
+   width:100%;
+   text-align: center;
+   border: 1px solid black;
+ }
+
+.table__align{
+  border: 1px solid black;
+  text-align: center;
+}
+
+.table__data{
+  border: 1px solid black;
+  text-align: center;
+}
+
+.table__head{
+  border: 1px solid black;
+  background-color: rgb(190, 185, 185);
+  text-align: center;
+  position: sticky;
+	top: 0px;
+	z-index: 2;
+ }
